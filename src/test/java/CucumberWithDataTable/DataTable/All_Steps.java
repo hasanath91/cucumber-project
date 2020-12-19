@@ -25,7 +25,7 @@ public class All_Steps {
 	}
 	
 
-	@Then("^user registeration should be successful$")
+	@Then("^user registeration should be successfull$")
 	public void user_registeration_should_be_successful() throws Throwable {
 	    
 	}
